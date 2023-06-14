@@ -1,6 +1,6 @@
 # CLDR Docs
 
-CLDR main page: [https://www.unicode.org/cldr](unicode.org/cldr)
+CLDR main page: [https://cldr.unicode.org/](https://cldr.unicode.org/)
 
 ## TR35
 
